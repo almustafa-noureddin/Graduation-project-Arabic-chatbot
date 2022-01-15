@@ -25,7 +25,7 @@ The objectives of this project is as follows:
 <b name="methodology">Methodology :</b><br/>
 
 <b name="Procss">Process :</b><br/>
-![img](img/process.png)
+<img src="img/process.PNG" alt="process">
 
 
 
