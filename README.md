@@ -63,7 +63,7 @@ Feature extraction has been implemented through a pipeline consists of the follo
 - Cosine similarity
 - Feature normalization
 
-![img](img/fe.png)
+<img src="img/fe.PNG" alt="process">
 
 <b name="training">Training :</b><br/>
 
@@ -115,19 +115,19 @@ Four aspects of performance have been studied:
 
 CLient side: 
 
-![img](img/client.png)
+<img src="img/client.PNG" alt="client">
 
 Client inetrface: 
 
-![img](img/interface.png)
+<img src="img/interface.PNG" alt="interface">
 
 Server side:
 
-![img](img/server.png)
+<img src="img/server.PNG" alt="server">
 
 The intent classifier module which resides in the server side has been implemented by training the nine classifiers
 
-![img](img/intent_classifier.png)
+<img src="img/intent_classifier.PNG" alt="intent_classifier">
 
 The dialog manager has been designed with clarification-based method which relies on asking user to clarify its intent and based on his/her answers the dialog will flow.
 
