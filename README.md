@@ -158,3 +158,13 @@ From the work that has done on this project the following recommendations are su
 - In this project, no information regarding individual words has been used to extract features from text. We recommend, however, to make use of word embbedings, which better represent the semantics of words.
 - On this project only the user intents has been used in the chatbot operation, we recommend for future work to incorporate both the intents and entities in the user input for more accurate results.
 - In this project no means of spelling correction is provided when users make typos it will affect the quality of predictions, so it is recommended for future project to incorporate a spelling correction mechanism to avoid false predictions.
+
+
+## Creators :
+
+
+**Almustafa Abdulgadir Muhammadhassan Noureddin**
+
+**Mohammed Abualnasr Hanafi Ahmed**
+
+**Safaa Ahmad Muhammad**
